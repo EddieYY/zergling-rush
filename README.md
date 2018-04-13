@@ -19,6 +19,7 @@ For example, a base like:
 <br>
 will become
 <br>
+
 ```
 ...#####
 .zz#...#
