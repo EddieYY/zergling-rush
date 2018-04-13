@@ -9,18 +9,18 @@ Note 2: if no building can be reached or if there are no buildings at all, the z
 
 For example, a base like:
 
-...#####
-...#...#
-..B..B.#
-...#...#
-...#####
+>...#####
+>...#...#
+>..B..B.#
+>...#...#
+>...#####
 
 will become
 
-...#####
-.zz#...#
-.zB..B.#
-.zz#...#
-...#####
+>...#####
+>.zz#...#
+>.zB..B.#
+>.zz#...#
+>...#####
 
 Zerglings surround the building to the left, but cannot access the building to the right because their path is blocked.
