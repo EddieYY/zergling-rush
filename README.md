@@ -14,7 +14,7 @@ For example, a base like:
 >..B..B.#
 >...#...#
 >...#####
-{ not be processed }}
+{% endraw %}
 
 will become
 
